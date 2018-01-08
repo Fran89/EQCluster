@@ -12,7 +12,7 @@ Use either qmake or QTCreator to compile this software. Tested on the Latest QT5
 
 ### Usage:
 
-  1. Load the file using the menu.
+  1. Load the file using the menu. (Usually CCatalog.csv from MISD)
   2. Set search parameters.
   3. Press search for clusters.
   4. Use the Cluster Viewer from the menu to see the different clusters.
