@@ -2,7 +2,7 @@
 An earthquake cluster search software, powered by QT.
 
 ### Brief:
-EQCluster is designed to take output from (AutoMISD)[https://github.com/Fran89/AutoMISD]
+EQCluster is designed to take output from [AutoMISD](https://github.com/Fran89/AutoMISD)
 and cluster it together into separate distinct clusters using a simple spatio-temporal 
 algorithm.
 
